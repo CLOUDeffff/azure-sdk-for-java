@@ -1,5 +1,7 @@
 #Microsoft Azure SDK for Java
 
+[![Join the chat at https://gitter.im/CLOUDeffff/azure-sdk-for-java](https://badges.gitter.im/CLOUDeffff/azure-sdk-for-java.svg)](https://gitter.im/CLOUDeffff/azure-sdk-for-java?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project provides a client library in Java that makes it easy to consume Microsoft Azure services. For documentation please see the [JavaDocs](http://azure.github.io/azure-sdk-for-java). For a list of libraries and how they are organized, please see the [Azure SDK for Java Features Wiki page] (https://github.com/Azure/azure-sdk-for-java/wiki/Azure-SDK-for-Java-Features).
 
 #Getting Started
